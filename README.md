@@ -1,10 +1,11 @@
 # Capstone - Google IT Automation with Python Professional Course
 
 These repository contains the scripts which I have used for the final capstone project for the Google IT Automation with Python professional Course Series.
-The series contains 5 courses and 1 final capstone project.
+
+
 <!-- 
 <p align="center">
-<img src='Completed_courses.JPG'> 
+<img src='/img/docs/Completed_courses.JPG'> 
 </p> -->
 
 The 7 scripts are as follows, and are used in this order:
@@ -17,6 +18,14 @@ The 7 scripts are as follows, and are used in this order:
 6. `report_email.py`
 7. `health_check.py`
 
+
+<div class='img-center'>
+
+![](/img/docs/project-capstone-google-it-automation-workflow.png)
+
+</div>
+
+
 Also adding here the badge that I got after completing the course. 
 
 <!-- Man, what a challenge.
@@ -27,5 +36,5 @@ Plus the feeling of closing the dozen tabs in your browser after your code works
 Almost like nirvana. -->
 
 <p align="center">
-<img src='Course_badge.JPG'> 
+<img src='/img/docs/Course_badge.JPG'> 
 </p>
